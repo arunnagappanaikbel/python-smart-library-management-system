@@ -5,27 +5,27 @@ In this project admin can add, delete th ebooks from library and member cas borr
 
 ✅ Features Overview:
 🧑‍💼 **Admin Functions**
-Add a new book
-Update existing book details
-Delete a book
+Add a new book,
+Update existing book details,
+Delete a book,
 Search books by ID/title/author
 
 👤 **Member Functions**
-Borrow a book (decreases book count)
-Return a book (increases book count)
+Borrow a book (decreases book count),
+Return a book (increases book count),
 Check borrowed books
 
 ⚙️ **System Features**
 Use of:
-Lists: Store available books
-Dictionaries: Book/member records
-Tuples: For immutable book info
+Lists: Store available books,
+Dictionaries: Book/member records,
+Tuples: For immutable book info,
 Sets: Track unique borrowed book IDs
 
 **Logging**:
-Log every operation (borrow, return, errors) in logs.txt
-Error Handling: File not found, invalid input, unavailable book, etc.
-File Handling: Books: CSV, Members: JSON, Logs: Text
+Log every operation (borrow, return, errors) in logs.txt,
+Error Handling: File not found, invalid input, unavailable book, etc.,
+File Handling: Books: CSV, Members: JSON, Logs: Text,
 Config Management: Load settings from settings.json
 
 ## 📂 Repository Structure
