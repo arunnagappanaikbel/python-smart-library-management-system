@@ -1,0 +1,5 @@
+{
+    "books_file": "data/books.csv",
+    "members_file": "data/members.json",
+    "log_file": "data/logs.txt"
+}
