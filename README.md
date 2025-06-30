@@ -1,4 +1,4 @@
-# python-smart-library-management-system : This python prjects helps to mastering python core skills. 
+# python-smart-library-management-system : This python projects helps to mastering python core skills. 
 
 In this project admin can add, delete th ebooks from library and member cas borrow and return the book which will update the database with current book count.
 
