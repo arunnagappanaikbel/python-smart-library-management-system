@@ -1,0 +1,171 @@
+2025-05-20 17:01:32,110 - INFO - Book added : 1984
+2025-05-20 17:01:32,110 - INFO - Book borrowed: 1984 by Member m01
+2025-05-20 17:01:32,110 - INFO - Book returned: 1984 by Member m01
+2025-05-22 08:58:44,802 - INFO - Book added : 1984
+2025-05-22 08:59:54,812 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:01:26,477 - INFO - Book returned: 1984 by Member m01
+2025-05-22 09:49:45,607 - INFO - Book added : 1984
+2025-05-22 09:49:45,607 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:49:45,607 - INFO - Book returned: 1984 by Member m01
+2025-05-22 09:50:05,792 - INFO - Book added : 1984
+2025-05-22 09:50:05,792 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:50:05,792 - INFO - Book returned: 1984 by Member m01
+2025-05-22 09:50:37,765 - INFO - Book added : 1984
+2025-05-22 09:50:37,765 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:50:37,765 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:50:37,765 - INFO - Book returned: 1984 by Member m01
+2025-05-22 09:51:09,395 - INFO - Book added : 1984
+2025-05-22 09:51:09,396 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:51:09,397 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:51:27,200 - INFO - Book added : 1984
+2025-05-22 09:51:27,200 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:51:27,200 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:52:26,868 - INFO - Book added : 1984
+2025-05-22 09:52:26,868 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:52:26,868 - INFO - Book borrowed: 1984 by Member m02
+2025-05-22 09:53:09,592 - INFO - Book added : 1984
+2025-05-22 09:53:09,592 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:53:09,592 - INFO - Book borrowed: 1984 by Member m02
+2025-05-22 09:54:22,666 - INFO - Book added : 1984
+2025-05-22 09:54:22,667 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:54:22,667 - INFO - Book borrowed: 1984 by Member m02
+2025-05-22 09:55:06,972 - INFO - Book added : 1984
+2025-05-22 09:55:44,116 - INFO - Book added : 1984
+2025-05-22 09:55:44,116 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:55:44,116 - INFO - Book borrowed: 1984 by Member m02
+2025-05-22 09:58:08,056 - INFO - Book added : 1984
+2025-05-22 09:58:08,057 - INFO - Book added : 1984
+2025-05-22 09:58:08,057 - INFO - Book added : 1984
+2025-05-22 09:58:08,057 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:58:08,057 - INFO - Book borrowed: 1984 by Member m02
+2025-05-22 09:58:08,057 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:58:08,058 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:58:08,058 - WARNING - Book 103 was not borrowed by Member m02
+2025-05-22 09:58:08,058 - WARNING - Book 101 was not borrowed by Member m02
+2025-05-22 09:58:47,524 - INFO - Book added : 1984
+2025-05-22 09:58:47,524 - INFO - Book added : 1984
+2025-05-22 09:58:47,524 - INFO - Book added : 1984
+2025-05-22 09:58:47,524 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:58:47,524 - INFO - Book borrowed: 1984 by Member m02
+2025-05-22 09:58:47,524 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:58:47,524 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:58:47,524 - WARNING - Book 103 was not borrowed by Member m02
+2025-05-22 09:58:47,524 - WARNING - Book 101 was not borrowed by Member m02
+2025-05-22 09:59:35,087 - INFO - Book added : 1984
+2025-05-22 09:59:35,102 - INFO - Book added : 1984
+2025-05-22 09:59:35,102 - INFO - Book added : 1984
+2025-05-22 09:59:35,102 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:59:35,102 - INFO - Book borrowed: 1984 by Member m02
+2025-05-22 09:59:35,102 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:59:35,102 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 09:59:35,102 - WARNING - Book 103 was not borrowed by Member m02
+2025-05-22 09:59:35,102 - WARNING - Book 101 was not borrowed by Member m02
+2025-05-22 10:00:11,672 - INFO - Book added : 1984
+2025-05-22 10:00:11,672 - INFO - Book added : 1984
+2025-05-22 10:00:11,672 - INFO - Book added : 1984
+2025-05-22 10:00:11,672 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 10:00:11,672 - INFO - Book borrowed: 1984 by Member m02
+2025-05-22 10:00:11,672 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 10:00:11,672 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 10:00:11,672 - WARNING - Book 103 was not borrowed by Member m02
+2025-05-22 10:00:11,672 - WARNING - Book 101 was not borrowed by Member m02
+2025-05-22 14:37:08,387 - INFO - Book added : 1984
+2025-05-22 14:37:08,392 - INFO - Book added : 1984
+2025-05-22 14:37:08,392 - INFO - Book added : 1984
+2025-05-22 14:37:08,392 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 14:37:08,393 - INFO - Book borrowed: 1984 by Member m02
+2025-05-22 14:37:08,393 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 14:37:08,393 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 14:37:08,393 - WARNING - Book 103 was not borrowed by Member m02
+2025-05-22 14:37:08,393 - WARNING - Book 101 was not borrowed by Member m02
+2025-05-22 15:31:20,008 - INFO - Book added : 1984
+2025-05-22 15:32:27,650 - INFO - Book added : 1984
+2025-05-22 15:37:09,475 - INFO - Book added : 1984
+2025-05-22 15:40:27,627 - INFO - Book added : 1984
+2025-05-22 15:40:49,885 - INFO - Book added : 1984
+2025-05-22 16:07:49,014 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 16:12:13,661 - INFO - Book borrowed: 1984 by Member m02
+2025-05-22 16:12:53,144 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 16:12:53,147 - INFO - Book borrowed: 1984 by Member m01
+2025-05-22 16:12:53,148 - WARNING - Book 103 was not borrowed by Member m02
+2025-05-22 16:14:36,886 - WARNING - Book 101 was not borrowed by Member m02
+2025-05-22 16:47:09,841 - INFO - Book added : Data
+2025-05-22 16:47:09,844 - INFO - Book added : RPA
+2025-05-22 16:47:09,844 - INFO - Book added : QA
+2025-05-22 16:47:09,844 - INFO - Book added : SPARK
+2025-05-22 16:47:09,844 - INFO - Book added : PYTHON
+2025-05-22 16:47:09,845 - INFO - Book added : SQL
+2025-05-22 16:47:09,846 - INFO - Book borrowed: Data by Member m01
+2025-05-22 16:47:09,847 - INFO - Book borrowed: RPA by Member m01
+2025-05-22 16:47:09,847 - INFO - Book borrowed: PYTHON by Member m01
+2025-05-22 16:47:09,847 - INFO - Book borrowed: SQL by Member m01
+2025-05-22 16:47:09,848 - INFO - Book borrowed: RPA by Member m02
+2025-05-22 16:47:09,848 - INFO - Book borrowed: QA by Member m02
+2025-05-22 16:47:09,849 - INFO - Book borrowed: PYTHON by Member m02
+2025-05-22 16:47:09,849 - INFO - Book borrowed: SQL by Member m02
+2025-05-22 16:47:09,849 - INFO - Book returned: RPA by Member m01
+2025-05-22 16:47:14,525 - INFO - Book returned: QA by Member m02
+2025-05-22 20:23:10,228 - INFO - Book added : Data
+2025-05-22 20:23:24,868 - INFO - Book added : RPA
+2025-05-22 20:23:24,870 - INFO - Book added : QA
+2025-05-22 20:23:24,871 - INFO - Book added : SPARK
+2025-05-22 20:23:24,871 - INFO - Book added : PYTHON
+2025-05-22 20:23:24,871 - INFO - Book added : SQL
+2025-05-22 20:29:02,553 - INFO - Book borrowed: Data by Member m01
+2025-05-22 20:34:44,881 - INFO - Book borrowed: RPA by Member m01
+2025-05-22 20:34:44,888 - INFO - Book borrowed: PYTHON by Member m01
+2025-05-22 20:34:44,888 - INFO - Book borrowed: SQL by Member m01
+2025-05-22 20:34:44,891 - INFO - Book borrowed: RPA by Member m02
+2025-05-22 20:34:44,893 - INFO - Book borrowed: QA by Member m02
+2025-05-22 20:34:44,894 - INFO - Book borrowed: PYTHON by Member m02
+2025-05-22 20:34:44,895 - INFO - Book borrowed: SQL by Member m02
+2025-05-22 20:36:30,305 - INFO - Book returned: RPA by Member m01
+2025-05-22 20:36:33,663 - INFO - Book returned: QA by Member m02
+2025-05-22 21:46:05,127 - INFO - Book added : Data
+2025-05-22 21:46:05,129 - INFO - Book added : RPA
+2025-05-22 21:46:05,129 - INFO - Book added : QA
+2025-05-22 21:46:05,129 - INFO - Book added : SPARK
+2025-05-22 21:46:05,130 - INFO - Book added : PYTHON
+2025-05-22 21:46:05,130 - INFO - Book added : SQL
+2025-05-22 21:46:09,477 - INFO - Book borrowed: Data by Member m01
+2025-05-22 21:46:09,482 - INFO - Book borrowed: RPA by Member m01
+2025-05-22 21:46:09,484 - INFO - Book borrowed: PYTHON by Member m01
+2025-05-22 21:46:09,485 - INFO - Book borrowed: SQL by Member m01
+2025-05-22 21:46:09,486 - INFO - Book borrowed: RPA by Member m02
+2025-05-22 21:46:09,486 - INFO - Book borrowed: QA by Member m02
+2025-05-22 21:46:09,487 - INFO - Book borrowed: PYTHON by Member m02
+2025-05-22 21:46:09,487 - INFO - Book borrowed: SQL by Member m02
+2025-05-22 21:46:13,530 - INFO - Book returned: RPA by Member m01
+2025-05-22 21:46:13,534 - INFO - Book returned: QA by Member m02
+2025-05-22 22:14:57,904 - INFO - Book added : Data
+2025-05-22 22:14:57,905 - INFO - Book added : RPA
+2025-05-22 22:14:57,906 - INFO - Book added : QA
+2025-05-22 22:14:57,906 - INFO - Book added : SPARK
+2025-05-22 22:14:57,907 - INFO - Book added : PYTHON
+2025-05-22 22:14:57,907 - INFO - Book added : SQL
+2025-05-22 22:14:57,909 - INFO - Book borrowed: Data by Member m01
+2025-05-22 22:14:57,910 - INFO - Book borrowed: RPA by Member m01
+2025-05-22 22:14:57,911 - INFO - Book borrowed: PYTHON by Member m01
+2025-05-22 22:14:57,911 - INFO - Book borrowed: SQL by Member m01
+2025-05-22 22:14:57,911 - INFO - Book borrowed: RPA by Member m02
+2025-05-22 22:14:57,912 - INFO - Book borrowed: QA by Member m02
+2025-05-22 22:14:57,912 - INFO - Book borrowed: PYTHON by Member m02
+2025-05-22 22:14:57,912 - INFO - Book borrowed: SQL by Member m02
+2025-05-22 22:14:57,913 - INFO - Book returned: RPA by Member m01
+2025-05-22 22:14:57,913 - INFO - Book returned: QA by Member m02
+2025-05-22 22:43:36,593 - INFO - Book added : Data
+2025-05-22 22:43:36,593 - INFO - Book added : RPA
+2025-05-22 22:43:36,593 - INFO - Book added : QA
+2025-05-22 22:43:36,593 - INFO - Book added : SPARK
+2025-05-22 22:43:36,593 - INFO - Book added : PYTHON
+2025-05-22 22:43:36,593 - INFO - Book added : SQL
+2025-05-22 22:43:36,593 - INFO - Book borrowed: Data by Member m01
+2025-05-22 22:43:36,593 - INFO - Book borrowed: RPA by Member m01
+2025-05-22 22:43:36,593 - INFO - Book borrowed: PYTHON by Member m01
+2025-05-22 22:43:36,593 - INFO - Book borrowed: SQL by Member m01
+2025-05-22 22:43:36,593 - INFO - Book borrowed: RPA by Member m02
+2025-05-22 22:43:36,593 - INFO - Book borrowed: QA by Member m02
+2025-05-22 22:43:36,593 - INFO - Book borrowed: PYTHON by Member m02
+2025-05-22 22:43:36,593 - INFO - Book borrowed: SQL by Member m02
+2025-05-22 22:43:36,593 - INFO - Book returned: RPA by Member m01
+2025-05-22 22:43:36,593 - INFO - Book returned: QA by Member m02
