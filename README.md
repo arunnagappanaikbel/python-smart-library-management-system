@@ -28,6 +28,8 @@ Error Handling: File not found, invalid input, unavailable book, etc.
 File Handling: Books: CSV, Members: JSON, Logs: Text
 Config Management: Load settings from settings.json
 
+## 📂 Repository Structure
+```
 smart_library/
 │
 ├── config/
@@ -47,3 +49,6 @@ smart_library/
 ├── main.py                      # Entry point of the system
 ├── requirements.txt             # List of required packages
 └── README.md
+
+```
+---
